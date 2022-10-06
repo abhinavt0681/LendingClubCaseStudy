@@ -23,17 +23,17 @@ Both these reasons cause huge losses to the lending company. Therefore, the they
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## **General Information and Background**
-    Humans are visual learners, our senses to decipher an image far supercedes our ability to decipher text. Even as we are reading very difficult book, essentially, as we read it, in our brains we create a visual image of what is described in the text. 
+Humans are visual learners, our senses to decipher an image far supercedes our ability to decipher text. Even as we are reading very difficult book, essentially, as we read it, in our brains we create a visual image of what is described in the text. 
 
-    Therefore, as we read text, it can be said that we are essentially interpreting it into a form our brain understands, "visuals and audio".
+Therefore, as we read text, it can be said that we are essentially interpreting it into a form our brain understands, "visuals and audio".
 
-    Thats exactly what we are doing over here. A 34 megabyte large CSV txt datasheet has been given to us, our job is to turn it into picture for our client. 
+Thats exactly what we are doing over here. A 34 megabyte large CSV txt datasheet has been given to us, our job is to turn it into picture for our client. 
 
-    We take hours and days to choose the right graphs and visual depictions, relevant so that nothing important gets excluded, nothing unwanted gets included. So our client is now able to look at these images (graphs basically) for a few minutes and hours and make a decision. 
+We take hours and days to choose the right graphs and visual depictions, relevant so that nothing important gets excluded, nothing unwanted gets included. So our client is now able to look at these images (graphs basically) for a few minutes and hours and make a decision. 
 
-    We essentially are turning this massive 34 megabyte text information into a few understandable graphs, that are based on it and accurate. 
+We essentially are turning this massive 34 megabyte text information into a few understandable graphs, that are based on it and accurate. 
 
-    This is whole technique can be called "Data Analysis".
+This is whole technique can be called "Data Analysis".
 
 ## **Business Problem**  
  We are applying this incredible text-to-graph technique using different Python Based Libraries to turn a dataset of a large number of people that have applied for a loan with our client "Lending Club".
@@ -41,11 +41,11 @@ Both these reasons cause huge losses to the lending company. Therefore, the they
  Now it is our job to **make sure they pick the right applicants to discharge loans to.**
 
 ### **This is how we achieve it.**
-    We are going to use number crunching libraries written in C for python, to crunch the numbers into operable dataTypes, and them feed them into libraries written to turning them into Graphs.
+We are going to use number crunching libraries written in C for python, to crunch the numbers into operable dataTypes, and them feed them into libraries written to turning them into Graphs.
 
-    Once the numbers are turned into graphs, we will have a very good understanding of correlation of different factors with loan repayment rate.
+Once the numbers are turned into graphs, we will have a very good understanding of correlation of different factors with loan repayment rate.
 
-    Using this Information we will give the recommended actions on the applicants to our cient.
+Using this Information we will give the recommended actions on the applicants to our cient.
 
 ## Information about Dataset
 Very generously a raw, well labeled datasheet of applicants, in a csv format has been given to us by our client. This made our task very easy. But still, a lot of operations need to be conducted on the datasheet before running an Analysis on it, otherwise our results maybe wildly skewed. This would destroy the business decisions, as they are to be based on the recommendation generated as a result of analysis done on the input data.
@@ -137,6 +137,7 @@ loan.csv is in dataset/ directory
 
   * **Google Mail, IMAP** for communication between team and client (UpGrad)
 <br>
+
 ### **Development Machine Hardware**
 
 * AMD RYZEN 1600x Hexacore Processor, x64_86 Architect, 6 core 12 threat, 95 Watts TDP. 
